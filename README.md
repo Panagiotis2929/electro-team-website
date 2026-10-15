@@ -2,9 +2,11 @@
 
 ## About the Project
 
-This project is an independent web development practice project inspired by the general needs of an electrical services business.
+This project is a web development practice project created by Panagiotis2929, inspired by the needs of an electrical services business.
 
-It was created for educational and portfolio purposes to explore front-end development, website structure, responsive layouts, and user interface design.
+It was developed for educational and portfolio purposes to explore front-end development, website structure, responsive layouts, and user interface design.
+
+The website was developed independently as a practical project, using business-related information and materials where applicable.
 
 ## Project Goals
 
@@ -12,6 +14,7 @@ It was created for educational and portfolio purposes to explore front-end devel
 - Build a responsive business-style website layout.
 - Explore service presentation, gallery layouts, and contact interface design.
 - Improve front-end development and UI/UX design skills.
+- Gain practical experience in website development and project presentation using GitHub.
 
 ## Technologies
 
@@ -21,13 +24,14 @@ It was created for educational and portfolio purposes to explore front-end devel
 
 ## Disclaimer
 
-This is an independent, non-commercial educational concept created for learning and portfolio purposes. It was not commissioned, approved, endorsed, or authorized by any business or individual.
+This project is published with the consent of Mr. Romanos for educational and portfolio purposes.
 
-The project does not represent an official business website and does not imply any professional relationship or collaboration.
+The website's implementation and original code were developed by Panagiotis2929. Business information, names, trademarks, photographs, logos, and other third-party materials remain attributable to their respective owners, where applicable.
 
-Any resemblance to an existing business is for reference purposes only. Third-party names, trademarks, photographs, logos, and other materials remain the property of their respective owners and are not claimed as my own.
-
-This repository is intended to demonstrate web development practice, not to represent or promote the business referenced during the initial design process.
+This repository is intended to demonstrate web development skills and does not imply ownership of the business or its identity. The permission to publish this project does not transfer ownership of any third-party materials.
 
 ## Author
+
 Panagiotis2929
+
+[GitHub Profile](https://github.com/Panagiotis2929)
