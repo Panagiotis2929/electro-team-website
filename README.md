@@ -24,7 +24,7 @@ The website was developed independently as a practical project, using business-r
 
 ## Disclaimer
 
-Business information, names, trademarks, photographs, logos, and other third-party materials remain attributable to their respective owners, where applicable.
+Business information, names, trademarks, photographs, logos, and other third-party materials remain attributable to their respective owners, where applicable. (https://ilektrologoskavala.com.gr/index.php?l=el)
 
 This repository is intended to demonstrate web development skills and does not imply ownership of the business or its identity. The permission to publish this project does not transfer ownership of any third-party materials.
 
