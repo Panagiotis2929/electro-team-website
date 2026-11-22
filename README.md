@@ -2,7 +2,7 @@
 
 ## About the Project
 
-This project is a web development practice project created by Panagiotis2929, inspired by the needs of an electrical services business.
+This project is a web development practice project created by Panagiotis2929.
 
 It was developed for educational and portfolio purposes to explore front-end development, website structure, responsive layouts, and user interface design.
 
@@ -24,9 +24,7 @@ The website was developed independently as a practical project, using business-r
 
 ## Disclaimer
 
-This project is published with the consent of Mr. Romanos for educational and portfolio purposes.
-
-The website's implementation and original code were developed by Panagiotis2929. Business information, names, trademarks, photographs, logos, and other third-party materials remain attributable to their respective owners, where applicable.
+Business information, names, trademarks, photographs, logos, and other third-party materials remain attributable to their respective owners, where applicable.
 
 This repository is intended to demonstrate web development skills and does not imply ownership of the business or its identity. The permission to publish this project does not transfer ownership of any third-party materials.
 
